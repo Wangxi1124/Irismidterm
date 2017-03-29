@@ -1,0 +1,72 @@
+.row
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+img {
+  margin-top: 20px;
+}
+
+.enginebody{
+  background:url("background.jpg");
+}
+
+.engine{
+  margin-top: 20px;
+  color: #F08080;
+  font-family:inherit;
+  font-weight: bold;
+  font-size: 130%
+}
+
+.brands{
+  margin-top: 20px;
+  color: #FF7F50;
+  font-family:inherit;
+  font-weight: bold;
+  font-size: 130%
+}
+
+.videos{
+  margin-top: 20px;
+  color: #FF0000;
+  font-family:inherit;
+  font-weight: bold;
+  font-size: 130%
+}
+
+.practice{
+  margin-top: 20px;
+  color: #DC143C;
+  font-family:inherit;
+  font-weight: bold;
+  font-size: 130%
+}
+
+.page2  {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-align: center;
+  color:white;
+}
+
+.page2 p {
+  padding-top: 20px;
+  line-height: 22px;
+  font-family: monospace;
+  text-align: left;
+  color: white;
+}
+
+.Brandtable img{
+	width:400px;
+	height:400px;
+}
+
+.Brandtable td{
+	border: 1px #70b8ff dashed;
+}
+
+.brandsbody {
+  background:url("background.jpg");
+}
