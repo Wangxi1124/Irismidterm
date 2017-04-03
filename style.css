@@ -19,6 +19,12 @@ img {
   font-size: 130%
 }
 
+footer {
+  background-color: red;
+  color: white;
+  padding: 15px;
+}
+
 .brands{
   margin-top: 20px;
   color: #FF7F50;
@@ -41,6 +47,30 @@ img {
   font-family:inherit;
   font-weight: bold;
   font-size: 130%
+}
+
+.col-md-3{
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.headimg {
+   position: relative;
+}
+
+.headimgtxt {
+   position: absolute;
+   top: 100px;
+   left: 800px;
+   width: 100%;
+   margin: 0 auto;
+   width: 300px;
+   height: 50px;
+   font-family:Comic Sans MS;
+}
+
+h1{
+  font-family: Impact, Charcoal, sans-seri;
 }
 
 .page2  {
