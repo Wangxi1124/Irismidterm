@@ -7,9 +7,6 @@ img {
   margin-top: 20px;
 }
 
-.enginebody{
-  background:url("background.jpg");
-}
 
 .engine{
   margin-top: 20px;
@@ -65,7 +62,7 @@ footer {
 }
 
 h1{
-  font-family: Impact, Charcoal, sans-seri;
+  font-family:serif;
 }
 
 .page2  {
@@ -73,15 +70,14 @@ h1{
   margin-right: 400px;
   margin-bottom: 100px;
   text-align: center;
-  color:white;
+  color:#595B67;
 }
 
 .page2 p {
   padding-top: 20px;
   line-height: 22px;
-  font-family: monospace;
   text-align: left;
-  color: white;
+  color: #595B67;
 }
 
 .Brandtable img{
