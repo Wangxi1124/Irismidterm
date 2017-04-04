@@ -13,9 +13,8 @@ img {
 
 .engine{
   margin-top: 20px;
-  color: #F08080;
+  color: #33DDFF;
   font-family:inherit;
-  font-weight: bold;
   font-size: 130%
 }
 
@@ -27,31 +26,27 @@ footer {
 
 .brands{
   margin-top: 20px;
-  color: #FF7F50;
+  color: #33C1FF;
   font-family:inherit;
-  font-weight: bold;
   font-size: 130%
 }
 
 .videos{
   margin-top: 20px;
-  color: #FF0000;
+  color: #33A5FF;
   font-family:inherit;
-  font-weight: bold;
   font-size: 130%
 }
 
 .practice{
   margin-top: 20px;
-  color: #DC143C;
+  color: #337DFF;
   font-family:inherit;
-  font-weight: bold;
   font-size: 130%
 }
 
 .col-md-3{
-  border: 1px solid gray;
-  border-radius: 5px;
+  text-align: center;
 }
 
 .headimg {
