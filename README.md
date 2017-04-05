@@ -37,10 +37,10 @@ I have a practice page to test their knowledge of traffic regulations. I also pl
 * Functional specifications: Functions of this website can be divided into four parts. The first part is to provide users with more knowledge about cars, like car engines and car brands to help them better understand the construction of cars and know more about different car brands. The second part is to raise people’s awareness of the importance of driving safety. The third part aimed at providing some online courses for users who want to learn driving from internet before they start to drive the real car. The last part is for novice drivers or potential drivers to practice or learn the U.S traffic regulations.
 * Content specifications: users who enter our website will see the text on the head image “Do you know how to drive safely?”. This slogan provides our users with a basic idea of what our website will provide for them. From the homepage’s navigation bar, users can choose what they want to explore more. If users want to learn more about cars, they can have the chance to learn more about the car engines and car brands. If they want to learn the causes of car accidents, the website provides them with six different reasons and each cause have a video to further illustrate it.
 # Structure
-! [Structure](/structure.jpg)
+![Structure](/structure.jpg)
 # Skeleton
-! [Index](/Index.png)
-! [Car engines](/Car engines.png)
-! [Car brands](/Car brands.png)
-! [Practice](/Practice.png)
-! [Tutor video & Causes of car accidents](/Tutor video.png)
+![Index](/Index.png)
+![Car engines](/Car engines.png)
+![Car brands](/Car brands.png)
+![Practice](/Practice.png)
+![Tutor video & Causes of car accidents](/Tutor video.png)
